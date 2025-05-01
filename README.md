@@ -1,0 +1,1 @@
+This code was collected from D1softball for the 2024 season batting stats. I cleaned the data in R then did the machine learning in Python. From the supervised learning I found which features help seperate power 4 from other conference players. From the unsupervised learning I found which players where anomilies and why. 
